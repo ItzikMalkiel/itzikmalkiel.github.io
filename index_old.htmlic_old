@@ -1,0 +1,129 @@
+<!DOCTYPE HTML>
+<html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+  <title>Itzik Malkiel</title>
+  
+  <meta name="author" content="Itzik Malkiel">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  
+  <link rel="stylesheet" type="text/css" href="stylesheet.css">
+	<link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🌐</text></svg>">
+</head>
+
+<body>
+  <table style="width:100%;max-width:800px;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
+    <tr style="padding:0px">
+      <td style="padding:0px">
+        <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
+          <tr style="padding:0px">
+            <td style="padding:2.5%;width:63%;vertical-align:middle">
+              <p style="text-align:center">
+                <name>name</name>
+              </p>
+              <p>abstract
+              </p>
+              <p>
+                At XXX I've worked on 
+              </p>
+              <p style="text-align:center">
+		      links
+                <!--<a href="mailto:jonbarron@gmail.com">Email</a> &nbsp/&nbsp
+                <a href="data/JonBarron-CV.pdf">CV</a> &nbsp/&nbsp
+                <a href="data/JonBarron-bio.txt">Bio</a> &nbsp/&nbsp
+                <a href="https://scholar.google.com/citations?hl=en&user=jktWnL8AAAAJ">Google Scholar</a> &nbsp/&nbsp
+                <!--<a href="https://twitter.com/jon_barron">Twitter</a> &nbsp/&nbsp -->
+                <a href="https://github.com/jonbarron/">Github</a>-->
+              </p>
+            </td>
+            <td style="padding:2.5%;width:40%;max-width:40%">
+              <a href="images/itzikmalkiel.jpg"><img style="width:100%;max-width:100%" alt="profile photo" src="images/profilePic.jpg" class="hoverZoomLink"></a>
+            </td>
+          </tr>
+        </tbody></table>
+        <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
+            <tr>
+            <td style="padding:20px;width:100%;vertical-align:middle">
+              <heading>Research</heading>
+              <p>
+                research intereses. Representative papers are <span class="highlight">highlighted</span>.
+              </p>
+            </td>
+          </tr>
+        </tbody></table>
+        <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
+				
+
+
+    <tr>
+      <td style="padding:20px;width:25%;vertical-align:middle">
+        <div class="one">
+          <img src='images/improved_deg.png' width="160">
+        </div>
+        
+      </td>
+      <td style="padding:20px;width:75%;vertical-align:middle">
+        <a href="https://openreview.net/pdf?id=W9qI8DwoUFF">
+          <papertitle>Pre-Training Transformers for Fingerprinting to Improve Stress Prediction in fMRI</papertitle>
+        </a>
+        <br>
+        G Rosenman, <strong>I Malkiel</strong>, A Greental, T Hendler, L Wolf
+        <br>
+        <em>Medical Imaging with Deep Learning (MIDL), 2023. Long paper.</em>,
+        <br>
+        <a href="https://github.com/GonyRosenman/MetricfMRI">github</a>
+        /
+        <!--<a href="https://www.youtube.com/watch?v=fThKXZ6uDTk">video</a>-->
+        /
+       <!-- <a href="https://XXX">arXiv</a>-->
+        <p></p>
+        <p>
+        We introduce a Transformer-based model, named MetricFMRI, and harness a pre-training procedure for fingerprinting on fMRI data, to enhance the accuracy of stress predictions.
+        </p>
+      </td>
+    </tr>
+
+
+
+        </tbody></table>
+
+				
+        <table width="100%" align="center" border="0" cellspacing="0" cellpadding="20"><tbody>
+          <tr>
+            <td>
+              <heading>Misc</heading>
+            </td>
+          </tr>
+        </tbody></table>
+        <table width="100%" align="center" border="0" cellpadding="20"><tbody>
+					
+          <tr>
+            <td style="padding:20px;width:25%;vertical-align:middle"><img src="images/cvf.jpg"></td>
+            <td width="75%" valign="center">
+              <a href="https://cvpr2022.thecvf.com/area-chairs">Area Chair, CVPR 2022</a>
+              <br>
+              <a href="http://cvpr2021.thecvf.com/area-chairs">Area Chair & Longuet-Higgins Award Committee Member, CVPR 2021</a>
+              <br>
+              <a href="http://cvpr2019.thecvf.com/area_chairs">Area Chair, CVPR 2019</a>
+              <br>
+              <a href="http://cvpr2018.thecvf.com/organizers/area_chairs">Area Chair, CVPR 2018</a>
+            </td>
+          </tr>
+			
+					
+        </tbody></table>
+        <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
+          <tr>
+            <td style="padding:0px">
+              <br>
+              <p style="text-align:right;font-size:small;">
+                Feel free to steal this website's <a href="https://github.com/jonbarron/jonbarron_website">source code</a>. <strong>Do not</strong> scrape the HTML from this page itself, as it includes analytics tags that you do not want on your own website &mdash; use the github code instead. Also, consider using <a href="https://leonidk.com/">Leonid Keselman</a>'s <a href="https://github.com/leonidk/new_website">Jekyll fork</a> of this page.
+              </p>
+            </td>
+          </tr>
+        </tbody></table>
+      </td>
+    </tr>
+  </table>
+</body>
+
+</html>
