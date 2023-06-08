@@ -50,17 +50,32 @@
           </table>
           <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
             <tbody>
+              * denotes equal contribution.
               <tr>
                 <td style="padding:20px;width:25%;vertical-align:middle">
                   <div class="one">
-                    <img src="images/improved_deg.png" width="160">
-                  </div>
+          <div class="two" id='bakedsdf_image'><video  width=100% height=100% muted autoplay loop>
+          <source src="images/bakedsdf_after.mp4" type="video/mp4">
+          Your browser does not support the video tag.
+          </video></div>
+          <img src='images/improved_deg.png' width="160">
+        </div>
+        <script type="text/javascript">
+          function bakedsdf_start() {
+            document.getElementById('bakedsdf_image').style.opacity = "1";
+          }
+
+          function bakedsdf_stop() {
+            document.getElementById('bakedsdf_image').style.opacity = "0";
+          }
+          bakedsdf_stop()
+        </script>
                 </td>
                 <td style="padding:20px;width:75%;vertical-align:middle">
                   <a href="https://openreview.net/pdf?id=W9qI8DwoUFF">
                     <h3>Pre-Training Transformers for Fingerprinting to Improve Stress Prediction in fMRI</h3>
                   </a>
-                  <p>G Rosenman, <strong>I Malkiel</strong>, A Greental, T Hendler, L Wolf</p>
+                  <p>G Rosenman*, <strong>I Malkiel*</strong>, A Greental, T Hendler, L Wolf</p>
                   <p><em>Medical Imaging with Deep Learning (MIDL), 2023. Long paper.</em></p>
                   <p><a href="https://github.com/GonyRosenman/MetricfMRI">github</a></p>
                   <p>We introduce a Transformer-based model, named MetricFMRI, and harness a pre-training procedure for fingerprinting on fMRI data, to enhance the accuracy of stress predictions.</p>
