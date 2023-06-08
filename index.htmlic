@@ -87,10 +87,10 @@
         /
         <!--<a href="https://www.youtube.com/watch?v=fThKXZ6uDTk">video</a>-->
         /
-        <a href="https://XXX">arXiv</a>
+       <!-- <a href="https://XXX">arXiv</a>-->
         <p></p>
         <p>
-        We use XXX to do something cool.
+        We introduce a Transformer-based model, named MetricFMRI, and harness a pre-training procedure for fingerprinting on fMRI data, to enhance the accuracy of stress predictions.
         </p>
       </td>
     </tr>
